@@ -1,3 +1,3 @@
 # git_cntg
 practica en remoto de curso git cntg
-Pedro colabora en el proyecto
+Pedro colabora en el proyecto de forma muy activa
